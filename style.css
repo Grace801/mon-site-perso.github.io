@@ -1,0 +1,35 @@
+.c-navbar{
+    background-color: rgba(199, 196, 196, 0.55);
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 1px 1px 3px rgba(42, 42, 42, 0.54);
+}
+.carousel img{
+    width: 650px;
+    height: 590px;
+    }
+    .service1{
+        display: flex;
+        background-color: rgba(93, 163, 216, 0.5);
+        margin: 30px;
+        padding: 10px;
+        height: 300px;
+        border-radius: 20px;
+    }
+    .service1 img{
+        height: 250px;
+        border-radius: 10px;
+    }
+    .voiture1{
+        background-color: #94aebb;
+    }
+    .voiture2{
+        background-color: #94aebb;
+    }
+    .voiture3{
+        background-color: #94aebb;
+    }
+    .voiture4{
+        background-color: #94aebb;
+    }
+ 
+    
